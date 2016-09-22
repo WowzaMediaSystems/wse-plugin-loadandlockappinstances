@@ -1,11 +1,12 @@
-# Load And Lock App Instances 
-The **LoadAndLockAppInstances** server listener for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) allows you to have an application load and remain loaded until the Streaming Engine is shut down.
+# LoadAndLockAppInstances 
+Use the **ServerListenerLoadAndLockAppInstances** server listener for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) when you need to have an application load and remain loaded until the Wowza Streaming Engine media server is shut down. The server listener can be configured to load multiple applications or application instances on the server.
+
 
 ## Prerequisites
 Wowza Streaming Engine 4.0.0 or later is required.
 
 ## Usage
-Specify the application(s) per vhost of which to load by leveraging the appropriate properties.
+Specify the applications and application instances that you want to load for each virtual host by leveraging the appropriate properties.
 
 ## More resources
 [Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/WowzaStreamingEngine_ServerSideAPI.pdf)
