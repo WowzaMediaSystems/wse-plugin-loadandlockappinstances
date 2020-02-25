@@ -10,13 +10,13 @@ Wowza Streaming Engine 4.0.0 or later is required.
 Specify the applications and application instances that you want to load for each virtual host by leveraging the appropriate properties.
 
 ## More resources
+To use the compiled version of this module, see [Load and lock an appinstance with a Wowza Streaming Engine server listener](https://www.wowza.com/docs/how-to-use-a-server-listener-to-load-and-lock-an-appinstance-serverlistenerloadandlockappinstances).
+
 [Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/serverapi/)
 
 [How to extend Wowza Streaming Engine using the Wowza IDE](https://www.wowza.com/docs/how-to-extend-wowza-streaming-engine-using-the-wowza-ide)
 
 Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/resources/developers) to learn more about our APIs and SDK.
-
-To use the compiled version of this module, see [Load and lock an appinstance with a Wowza Streaming Engine server listener](https://www.wowza.com/docs/how-to-use-a-server-listener-to-load-and-lock-an-appinstance-serverlistenerloadandlockappinstances).
 
 ## Contact
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
